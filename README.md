@@ -7,4 +7,4 @@ Support page and privacy policy for Pigeon, the iPhone app that keeps count of w
 
 App Store Connect links to both, so keep these two paths. The privacy policy must match the App Privacy answers in App Store Connect (Data Not Collected); change both together, and update the policy's effective date.
 
-Found a bug or have a question about the app? Email pigeonlogeverything@gmail.com, or [open an issue](https://github.com/orangehour/pigeon/issues/new).
+Found a bug or have a question about the app? Email pigeonlogeverything@gmail.com.
